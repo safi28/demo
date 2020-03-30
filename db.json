@@ -1,8 +1,8 @@
 {
-  "foods": 
+  "foods": [
     { "id": 1, "name": "Post 1" },
     { "id": 2, "kg": "Post 2" },
     { "id": 3, "ingredients": "Post 3" },
-    { "id": 4, "details": "Post 3" },
-  
+    { "id": 4, "details": "Post 3" }
+  ]
 }
