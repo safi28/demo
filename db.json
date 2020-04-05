@@ -1,8 +1,20 @@
+[
 {
-  "foods": [
-    { "id": 1, "name": "Post 1" },
-    { "id": 2, "kg": "Post 2" },
-    { "id": 3, "ingredients": "Post 3" },
-    { "id": 4, "details": "Post 3" }
-  ]
+  "id": 1,
+  "question": "What is Fry's first name?",
+  "possibleAnswers": ["Klas", "Philip", "Will", "John"],
+  "correctAnswer": "Philip"
+},
+{
+  "question": "In 'Benders Big Score' what ailen species scam the earth?",
+  "id": 2,
+  "possibleAnswers": [
+    "Nibbloniens",
+    "Omicrons",
+    "Robots",
+    "Nudest aliens",
+    "Tentacals"
+  ],
+  "correctAnswer": "Nudest aliens"
 }
+]
